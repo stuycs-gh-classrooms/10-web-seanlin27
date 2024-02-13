@@ -7,7 +7,14 @@
     <title>FitnessGram Pacer Test</title>
   </head>
 
+  <body style="background-color: silver;">
   <body>
+    p {
+    color: green
+    text-align: justify
+    font-family: "Times"
+    border: 1px solid white
+    }
     <p>
       The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. 
     </p>
@@ -21,9 +28,13 @@
     <p>
       Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. 
     </p>
-    <p>
+    h1 {
+    font-size: 14px
+    font-weight: bold
+    }
+    <h1>
       The test will begin on the word start. On your mark, get ready, start.
-    </p>
+    </h1>
   </body>
 
 </html>
