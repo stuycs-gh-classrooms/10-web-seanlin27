@@ -1,4 +1,14 @@
 html {
   font-size: 20px;
-  background-color: 
+  background-color: mediumseagreen
+}
+body {
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  background-color: gold;
+}
+nav {
+  background-color: forestgreen;
+  margin: auto;
 }
