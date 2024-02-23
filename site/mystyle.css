@@ -13,14 +13,18 @@ nav {
   margin: auto;
   font-size: 1.5;
 }
+ul {
+  padding: 0.5px;
+  text-align: center;
+}
+li {
+  padding: 1px;
+  display: block;
+}
 h1 {
   text-align: center;
   text-decoration: underline;
 }
 h2 {
   text-align: center;
-}
-ul {
-  padding: 0.5;
-  
 }
